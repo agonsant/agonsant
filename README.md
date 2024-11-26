@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-![demo](./demo.svg)
+<img src="./demo.svg" />
